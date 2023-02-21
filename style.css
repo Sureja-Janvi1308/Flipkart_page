@@ -19,12 +19,12 @@
  }
 
 
-  header .logo img {
+ header .logo img {
      width: 89px;
      height: 62px;
      margin-top: -6px;
      margin-right: -89px;
- } 
+ }
 
  header .search {
      height: 100%;
@@ -119,10 +119,10 @@
 
  /* advertisement section    */
 
- .cards { 
+ .cards {
      display: flex;
      overflow: hidden;
-  } 
+ }
 
  .advert {
      position: absolute;
@@ -131,7 +131,7 @@
      transform: translateY(-50%);
      margin: 10px;
      margin-right: 80px;
-     margin-bottom: 0%;
+     margin-bottom: 0;
  }
 
  .advert img {
@@ -160,7 +160,7 @@
      cursor: pointer;
      color: rgb(85, 83, 83);
  }
- 
+
 
  .category-col img {
      width: 64px;
@@ -171,7 +171,7 @@
      color: #2874f0;
  }
 
-/* common for all */
+ /* common for all */
 
  /* <!-- Mobile section --> */
 
@@ -181,8 +181,8 @@
      margin: 10px;
      margin-left: 6px;
      margin-right: 346px;
-       border-radius: 5px;
-       
+     border-radius: 5px;
+
  }
 
  .card2 {
@@ -201,7 +201,7 @@
      box-shadow: 0 1px 1px 0 rgb(0 0 0 /16%);
  }
 
-  .slide-btn {
+ .slide-btn {
      background-color: #fff;
      margin-left: 1100px;
      width: 49px;
@@ -210,10 +210,10 @@
      top: 34%;
      right: 19%;
      color: #333;
-     border:1px solid #f0f0f0;
-     box-shadow: 0 4px 10px rgba(0,0, 0, 0.3);
- } 
- 
+     border: 1px solid #f0f0f0;
+     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+ }
+
 
  .common-heading-left h1 {
      font-size: 20px;
@@ -317,7 +317,7 @@
      font-weight: bold;
  }
 
-/* <!-- headphones and speaker section --> */
+ /* <!-- headphones and speaker section --> */
 
  .col-headphones img {
      width: 125px;
@@ -330,6 +330,3 @@
      position: absolute;
      right: 0;
  }
-
-
- 
