@@ -19,27 +19,18 @@
  }
 
 
- header .logo {
-     display: flex;
-     min-width: 137px;
-     justify-content: flex-end;
-     width: 191px;
-     height: 31px;
-     margin: 4px;
- }
-
- header .logo img {
+  header .logo img {
      width: 89px;
      height: 62px;
-     margin-top: -10px;
-     margin-right: -119px;
- }
+     margin-top: -6px;
+     margin-right: -89px;
+ } 
 
  header .search {
      height: 100%;
      display: flex;
      align-items: center;
-     margin-left: -93px;
+     margin-left: -211px;
  }
 
  header .search .search-container {
